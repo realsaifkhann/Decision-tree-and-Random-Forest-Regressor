@@ -255,3 +255,12 @@ More opinions → Better reliability
 
 > “Random Forest is an ensemble learning method that builds multiple decision trees using random subsets of data and features. For regression it averages predictions, and for classification it uses majority voting. Compared to a single decision tree, it reduces variance, improves generalization, and provides more stable predictions.”
 
+---
+
+“Explain via implementation.”
+
+Say:
+
+“A Decision Tree Regressor trains a single tree that recursively splits data to minimize MSE. A Random Forest Regressor extends this by training multiple trees using bootstrap sampling and random feature selection, then averages predictions to reduce variance and improve generalization.”
+
+
