@@ -1,6 +1,6 @@
 # Decision-tree-and-Random-Forest-Regressor
 
-# 🌳 Decision Tree Regressor (Simple & Professional)
+# 🌳 Decision Tree Regressor
 
 A **Decision Tree Regressor** predicts **continuous numeric values** by splitting data into smaller groups using **if-else rules**.
 
